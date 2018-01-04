@@ -8,7 +8,7 @@
 
 ### 实例代码说明：
 ```
-*   导入module import clear from 'react-native-clear-cache';
+*   导入module import clear from 'react-native-clear-app-cache';
 
 *   clear.clearAppCache(() => {
       console.log("清理缓存成功");

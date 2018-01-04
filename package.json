@@ -7,8 +7,9 @@
     "test": "jest"
   },
   "dependencies": {
-    "react": "16.0.0",
-    "react-native": "0.51.0"
+    "react": "^16.2.0",
+    "react-native": "^0.51.0",
+    "react-native-clear-app-cache": "^1.0.2"
   },
   "devDependencies": {
     "babel-jest": "22.0.4",
