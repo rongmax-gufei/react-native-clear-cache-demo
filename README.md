@@ -9,9 +9,11 @@
 ### 实例代码说明：
 ```
 *   导入module import clear from 'react-native-clear-cache';
+
 *   clear.clearAppCache(() => {
       console.log("清理缓存成功");
     });
+    
 *   clear.getAppCacheSize((value, unit) => {
        console.log("缓存大小", value);   
        console.log("缓存单位", unit); 
