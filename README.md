@@ -3,7 +3,7 @@
 | ------------- |:---------------:|
 | gufei         | 799170694@qq.com|
 
-# RNClearAppCacheExample
+# React Native Clear Cache Demo
 [react-native-clear-app-cache 源码](https://github.com/midas-gufei/react-native-clear-app-cache)
 
 ### 实例代码说明：
